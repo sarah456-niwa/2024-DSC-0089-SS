@@ -1,0 +1,47 @@
+    .text{
+        font-size: xx-large;
+        text-align: justify;
+    }
+    h1{
+        text-align: center;
+    }
+    p{
+        text-align: center;
+        font-style: italic;
+    }
+    .one{
+        text-align: center;
+        background-color: rgb(0, 255, 242);
+        width: 200px;
+        height: 200px;
+    }
+    .two{
+        text-align: center;
+        background-color: rgb(0, 255, 242);
+        width: 200px;
+        height: 200px;
+        align-items: center;
+    }
+    .three{
+        text-align: center;
+        background-color: rgb(0, 255, 242);
+        width: 200px;
+        height: 200px;
+    }
+    .main{
+        display: flex;              
+  justify-content: space-between;
+  margin-top: 98px;
+    }
+    .four{
+        text-align: center;
+        background-color: rgb(0, 255, 242);
+        width: 200px;
+        height: 200px;
+    }
+    .five{
+        text-align: center;
+        background-color: rgb(0, 255, 242);
+        width: 200px;
+        height: 200px;
+    }
